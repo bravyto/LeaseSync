@@ -1,0 +1,26 @@
+# FastAPI & ASGI Server
+fastapi
+uvicorn
+
+# Database & ORM
+sqlalchemy
+
+# AWS Services for AI & S3
+boto3  # AWS SDK for S3 & Bedrock AI
+
+# AI & OCR for Document Processing
+pytesseract  # OCR for image-based PDFs
+PyMuPDF  # PDF text extraction
+pdfplumber  # Alternative PDF text extraction
+transformers  # AI Model Processing (Hugging Face)
+torch  # Required for AI models
+
+# Environment Variables
+python-dotenv
+
+# Background Task Handling
+celery  # Task queue (optional, only if using Celery)
+
+# Data Processing & Utility
+numpy
+pandas
