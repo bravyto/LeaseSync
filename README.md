@@ -10,6 +10,14 @@ LeaseSync is a **web-based lease management system** that helps businesses manag
 
 🚀 **Perfect for businesses managing multiple leases!**
 
+Download white paper:
+[Link](https://github.com/bravyto/LeaseSync/blob/7a47e884238f3d1d5f0a2262195693e1ce8d5b36/LeaseSync-white-paper.pdf)
+
+---
+
+## **Demo**
+https://github.com/user-attachments/assets/974b6695-e9ca-4f54-8fdf-8d4309b59659
+
 ---
 
 ## **🛠️ Tech Stack**
