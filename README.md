@@ -1,6 +1,6 @@
 # 🏢 LeaseSync - Open-Source Lease Management System
 
-LeaseSync is a **web-based lease management system** that helps businesses manage lease agreements and invoices with **automated document extraction** using AI.
+LeaseSync is a **LLM-powered platform for automated lease management system** that helps businesses manage lease agreements and invoices with **automated document extraction** using AI.
 
 🔹 **Upload lease agreements & invoices** (PDF).  
 🔹 **Extract key contract details** automatically using AWS Bedrock AI.  
